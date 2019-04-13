@@ -1,4 +1,3 @@
-
 def levitation_quiz
 	def annoying
     loop do 
